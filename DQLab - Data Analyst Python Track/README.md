@@ -1,7 +1,7 @@
 # Data Analyst Python Track 
 
 <p align="center">
-    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Certificates/main/DQLab/assets/dqlab.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Certificates/main/DQLab%20-%20Data%20Analyst%20Python%20Track/assets/dqlab.png"> </kbd> <br>
 </p>
 
 [Certificate Link](https://academy.dqlab.id/Certificate_check/result/DQLABDATRCIFSBGF#mycertificate)
