@@ -1,7 +1,7 @@
-# IBM Data Analyst
+# IBM Data Analyst Professional
 
 <p align="center">
-    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Certificates/main/IBM%20-%20Data%20Analyst/assets/ibm_da.png"> </kbd> <br>
+    <kbd> <img width="1000" alt="mvp banner" src="https://raw.githubusercontent.com/buddymar/Certificates/main/IBM%20-%20Data%20Analyst%20Professional%20Certificate/assets/ibm_da.png"> </kbd> <br>
 </p>
 
 [Certificate Link](https://coursera.org/share/f695484ad61fba864409ab566d4db0a8)
